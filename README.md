@@ -4,7 +4,7 @@ A simple repo to test git-flow features: branching, releasing, hotfixes
 
 # Version
 
-v0.0.2
+v0.0.3
 
 ## Acknowledgements
 
