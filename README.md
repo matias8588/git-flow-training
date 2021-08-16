@@ -2,6 +2,10 @@
 
 A simple repo to test git-flow features: branching, releasing, hotfixes
 
+# Version
+
+v0.0.1
+
 ## Acknowledgements
 
 - [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
