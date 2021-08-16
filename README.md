@@ -4,7 +4,7 @@ A simple repo to test git-flow features: branching, releasing, hotfixes
 
 # Version
 
-v0.0.1
+v0.0.2
 
 ## Acknowledgements
 
@@ -26,3 +26,4 @@ v0.0.1
 - Publishing a release `git flow release publish` and create the PR so the other collaborators can check or even push their hotfix to that branch
 - Create a tag `git tag x.x.x` and push them `git push origin --tags`
 - Finish the release `git flow release finish <RELEASE>`
+- Now that you're in develop branch do a `git push` and then checkout to main and do the same
