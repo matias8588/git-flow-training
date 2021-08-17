@@ -17,7 +17,7 @@ v0.0.3
 ## Features
 
 - Starting a new feature based on develop branch `git flow feature start <FEATURE NAME>`
-- Finishing a feature `git flow feature finish <FEATURE NAME`
+- Finishing a feature `git flow feature finish <FEATURE NAME>`
 
 ## Releases
 
